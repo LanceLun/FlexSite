@@ -40,3 +40,17 @@ C:\Users\jjboy\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.d
 C:\Users\jjboy\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
 C:\Users\jjboy\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
 C:\Users\jjboy\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.pdb
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.AssemblyReference.cache
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfoInputs.cache
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfo.cs
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.CoreCompileInputs.cache
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.dll
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
+C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll

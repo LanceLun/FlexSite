@@ -11011,23 +11011,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jjboy\\.nuget\\packages\\": {},
+    "C:\\Users\\VAL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\FlexCoreService.csproj",
+      "projectUniqueName": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\FlexCoreService.csproj",
       "projectName": "FlexCoreService",
-      "projectPath": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\FlexCoreService.csproj",
-      "packagesPath": "C:\\Users\\jjboy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\obj\\",
+      "projectPath": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\FlexCoreService.csproj",
+      "packagesPath": "C:\\Users\\VAL\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jjboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\VAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11037,14 +11037,15 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj": {
-              "projectPath": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj"
+            "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj": {
+              "projectPath": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj"
             }
           }
         }
@@ -11101,7 +11102,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

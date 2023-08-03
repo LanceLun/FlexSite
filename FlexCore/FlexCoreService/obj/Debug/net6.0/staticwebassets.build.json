@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ToGtE0W9goILUuwD8YvSiHNhJlso1DTa+LfepLFg8jg=",
+  "Hash": "zdsPWIQAqqKAYwLLmLHOM3tgRAU8i7jhRdKK799laPU=",
   "Source": "FlexCoreService",
   "BasePath": "_content/FlexCoreService",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FlexCoreService\\wwwroot",
       "Source": "FlexCoreService",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\css\\ProductCard.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\css\\ProductCard.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "css/ProductCard.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\ProductCard.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\css\\site.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\favicon.ico",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\js\\site.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\ExcelSimple\\20230710Report.xlsx",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\ExcelSimple\\20230710Report.xlsx",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/ExcelSimple/20230710Report.xlsx",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\ExcelSimple\\20230710Report.xlsx"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\006ca4ce4f934b31a0159c95f2c2bb52.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\006ca4ce4f934b31a0159c95f2c2bb52.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/006ca4ce4f934b31a0159c95f2c2bb52.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\006ca4ce4f934b31a0159c95f2c2bb52.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\02535239760f4795a91fd72e7a1b314a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\02535239760f4795a91fd72e7a1b314a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/02535239760f4795a91fd72e7a1b314a.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\02535239760f4795a91fd72e7a1b314a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\05017ebe8dfa49bbb9d632cf655e7f2e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\05017ebe8dfa49bbb9d632cf655e7f2e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/05017ebe8dfa49bbb9d632cf655e7f2e.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\05017ebe8dfa49bbb9d632cf655e7f2e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\05199d54635a4fbca6e75cd113eb32ee.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\05199d54635a4fbca6e75cd113eb32ee.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/05199d54635a4fbca6e75cd113eb32ee.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\05199d54635a4fbca6e75cd113eb32ee.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0642809809bf4b1096f21e1f0c1e5cd1.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0642809809bf4b1096f21e1f0c1e5cd1.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/0642809809bf4b1096f21e1f0c1e5cd1.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\0642809809bf4b1096f21e1f0c1e5cd1.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07387b7355f844f8a94218c15f8aab28.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07387b7355f844f8a94218c15f8aab28.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/07387b7355f844f8a94218c15f8aab28.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\07387b7355f844f8a94218c15f8aab28.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07401ba9aba64335b70c9c316065c7e1.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07401ba9aba64335b70c9c316065c7e1.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/07401ba9aba64335b70c9c316065c7e1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\07401ba9aba64335b70c9c316065c7e1.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07e650b59d3f433ba0771112e583f070.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\07e650b59d3f433ba0771112e583f070.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/07e650b59d3f433ba0771112e583f070.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\07e650b59d3f433ba0771112e583f070.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0822f6e863c7410fad8bbc5d99bf4d8c.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0822f6e863c7410fad8bbc5d99bf4d8c.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/0822f6e863c7410fad8bbc5d99bf4d8c.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\0822f6e863c7410fad8bbc5d99bf4d8c.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\090cdadbb0914a3a9ed0854703161844.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\090cdadbb0914a3a9ed0854703161844.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/090cdadbb0914a3a9ed0854703161844.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\090cdadbb0914a3a9ed0854703161844.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\09c674f4711d4864963f7b1b7c92de7c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\09c674f4711d4864963f7b1b7c92de7c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/09c674f4711d4864963f7b1b7c92de7c.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\09c674f4711d4864963f7b1b7c92de7c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0cac753e1aae4728a93d94044326304e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0cac753e1aae4728a93d94044326304e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/0cac753e1aae4728a93d94044326304e.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\0cac753e1aae4728a93d94044326304e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0df1eb14096b4399a531b1efb0836b00.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\0df1eb14096b4399a531b1efb0836b00.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/0df1eb14096b4399a531b1efb0836b00.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\0df1eb14096b4399a531b1efb0836b00.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\11f93804a670412e8d995a7d878bb837.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\11f93804a670412e8d995a7d878bb837.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/11f93804a670412e8d995a7d878bb837.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\11f93804a670412e8d995a7d878bb837.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1616b89584f9465f8e085e653f3cf2c9.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1616b89584f9465f8e085e653f3cf2c9.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/1616b89584f9465f8e085e653f3cf2c9.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\1616b89584f9465f8e085e653f3cf2c9.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\18779b3dc02f4dd9954ef7ea7cffe3fa.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\18779b3dc02f4dd9954ef7ea7cffe3fa.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/18779b3dc02f4dd9954ef7ea7cffe3fa.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\18779b3dc02f4dd9954ef7ea7cffe3fa.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\191042c38d7d484684b48f6e8372f77b.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\191042c38d7d484684b48f6e8372f77b.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/191042c38d7d484684b48f6e8372f77b.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\191042c38d7d484684b48f6e8372f77b.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\19d5c3e6ebb948d784f351a9433cc1b2.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\19d5c3e6ebb948d784f351a9433cc1b2.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/19d5c3e6ebb948d784f351a9433cc1b2.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\19d5c3e6ebb948d784f351a9433cc1b2.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1de9aa248d494f2b9d36f7610060c532.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1de9aa248d494f2b9d36f7610060c532.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/1de9aa248d494f2b9d36f7610060c532.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\1de9aa248d494f2b9d36f7610060c532.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1e6b49bc26e24e95a334b613a93e2e57.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1e6b49bc26e24e95a334b613a93e2e57.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/1e6b49bc26e24e95a334b613a93e2e57.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\1e6b49bc26e24e95a334b613a93e2e57.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1e7ed140e99b4d3597a997953c95b314.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\1e7ed140e99b4d3597a997953c95b314.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/1e7ed140e99b4d3597a997953c95b314.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\1e7ed140e99b4d3597a997953c95b314.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\21a6cb98609d45b99c02e326364ad149.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\21a6cb98609d45b99c02e326364ad149.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/21a6cb98609d45b99c02e326364ad149.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\21a6cb98609d45b99c02e326364ad149.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\261d1703d6c94b839c14eee75816aee4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\261d1703d6c94b839c14eee75816aee4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/261d1703d6c94b839c14eee75816aee4.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\261d1703d6c94b839c14eee75816aee4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\261f8842735045439b603ca593378b9a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\261f8842735045439b603ca593378b9a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/261f8842735045439b603ca593378b9a.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\261f8842735045439b603ca593378b9a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2778a60e7c334990a8cd11b2455fc2b0.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2778a60e7c334990a8cd11b2455fc2b0.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/2778a60e7c334990a8cd11b2455fc2b0.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\2778a60e7c334990a8cd11b2455fc2b0.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\29a8dbd4b6d04d32ac85a36748e09216.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\29a8dbd4b6d04d32ac85a36748e09216.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/29a8dbd4b6d04d32ac85a36748e09216.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\29a8dbd4b6d04d32ac85a36748e09216.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2da167f3f5f2410ab94b175f348abe5a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2da167f3f5f2410ab94b175f348abe5a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/2da167f3f5f2410ab94b175f348abe5a.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\2da167f3f5f2410ab94b175f348abe5a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2f897bed2e6647628562163f97130075.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\2f897bed2e6647628562163f97130075.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/2f897bed2e6647628562163f97130075.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\2f897bed2e6647628562163f97130075.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\308f86d35819435ab4e545e36f80b284.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\308f86d35819435ab4e545e36f80b284.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/308f86d35819435ab4e545e36f80b284.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\308f86d35819435ab4e545e36f80b284.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3147b9be0fbb42da88a60c7ca32fee87.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3147b9be0fbb42da88a60c7ca32fee87.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/3147b9be0fbb42da88a60c7ca32fee87.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\3147b9be0fbb42da88a60c7ca32fee87.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\34bd7c8fcfbb4249bb297310762bfe6f.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\34bd7c8fcfbb4249bb297310762bfe6f.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/34bd7c8fcfbb4249bb297310762bfe6f.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\34bd7c8fcfbb4249bb297310762bfe6f.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3aa4ef704a274a02995dfc97182e7d92.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3aa4ef704a274a02995dfc97182e7d92.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/3aa4ef704a274a02995dfc97182e7d92.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\3aa4ef704a274a02995dfc97182e7d92.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3b713573fe7941999e0e158fdda0dfff.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3b713573fe7941999e0e158fdda0dfff.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/3b713573fe7941999e0e158fdda0dfff.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\3b713573fe7941999e0e158fdda0dfff.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3c614caeef1243a7849f9500f00c3b2b.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3c614caeef1243a7849f9500f00c3b2b.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/3c614caeef1243a7849f9500f00c3b2b.png",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\3c614caeef1243a7849f9500f00c3b2b.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3fdab095f7ff4cfbb07bbfcdcc49d313.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\3fdab095f7ff4cfbb07bbfcdcc49d313.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/3fdab095f7ff4cfbb07bbfcdcc49d313.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\3fdab095f7ff4cfbb07bbfcdcc49d313.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\407a9c168da444c9a70f1c785d67f034.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\407a9c168da444c9a70f1c785d67f034.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/407a9c168da444c9a70f1c785d67f034.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\407a9c168da444c9a70f1c785d67f034.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\44673e00a099451ba228c9489b36973e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\44673e00a099451ba228c9489b36973e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/44673e00a099451ba228c9489b36973e.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\44673e00a099451ba228c9489b36973e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4475b05bc8bc4dcfb0c84e1abeb6bf1f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4475b05bc8bc4dcfb0c84e1abeb6bf1f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4475b05bc8bc4dcfb0c84e1abeb6bf1f.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4475b05bc8bc4dcfb0c84e1abeb6bf1f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\460c9572c772480990cba31274b9b8d2.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\460c9572c772480990cba31274b9b8d2.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/460c9572c772480990cba31274b9b8d2.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\460c9572c772480990cba31274b9b8d2.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\475db1a3df504d129e80162753f62b81.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\475db1a3df504d129e80162753f62b81.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/475db1a3df504d129e80162753f62b81.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\475db1a3df504d129e80162753f62b81.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\48f61c9653804b2fbee6c083f7b4011d.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\48f61c9653804b2fbee6c083f7b4011d.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/48f61c9653804b2fbee6c083f7b4011d.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\48f61c9653804b2fbee6c083f7b4011d.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4a691232ddf54507b327013f3de37cd4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4a691232ddf54507b327013f3de37cd4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4a691232ddf54507b327013f3de37cd4.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4a691232ddf54507b327013f3de37cd4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4aa9971fac1d46aaaf1ad98ac4547b9b.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4aa9971fac1d46aaaf1ad98ac4547b9b.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4aa9971fac1d46aaaf1ad98ac4547b9b.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4aa9971fac1d46aaaf1ad98ac4547b9b.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4c3fddd2efda4b69862232797a324c0e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4c3fddd2efda4b69862232797a324c0e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4c3fddd2efda4b69862232797a324c0e.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4c3fddd2efda4b69862232797a324c0e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4e996c6713f24d969444f3460c404e65.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4e996c6713f24d969444f3460c404e65.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4e996c6713f24d969444f3460c404e65.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4e996c6713f24d969444f3460c404e65.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4f2c591b60b7405fa95b2c238eea2d23.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\4f2c591b60b7405fa95b2c238eea2d23.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/4f2c591b60b7405fa95b2c238eea2d23.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\4f2c591b60b7405fa95b2c238eea2d23.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5148e1858d6740e8b00d26a85b7a9766.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5148e1858d6740e8b00d26a85b7a9766.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5148e1858d6740e8b00d26a85b7a9766.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5148e1858d6740e8b00d26a85b7a9766.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\51b361a98e2e427eafbf8b055d16c6ab.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\51b361a98e2e427eafbf8b055d16c6ab.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/51b361a98e2e427eafbf8b055d16c6ab.png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\51b361a98e2e427eafbf8b055d16c6ab.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\51ff4f79a29444258fbf19c3966d3de0.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\51ff4f79a29444258fbf19c3966d3de0.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/51ff4f79a29444258fbf19c3966d3de0.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\51ff4f79a29444258fbf19c3966d3de0.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\526cae16a55948c8a158551870a6996a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\526cae16a55948c8a158551870a6996a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/526cae16a55948c8a158551870a6996a.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\526cae16a55948c8a158551870a6996a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\54221a9d589a4ef5992c8a135fd354d7.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\54221a9d589a4ef5992c8a135fd354d7.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/54221a9d589a4ef5992c8a135fd354d7.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\54221a9d589a4ef5992c8a135fd354d7.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\550af4ee0a2047d69bf578c0bbe63fa7.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\550af4ee0a2047d69bf578c0bbe63fa7.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/550af4ee0a2047d69bf578c0bbe63fa7.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\550af4ee0a2047d69bf578c0bbe63fa7.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5bba3cfe2e4849639f8e7e4cc5918828.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5bba3cfe2e4849639f8e7e4cc5918828.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5bba3cfe2e4849639f8e7e4cc5918828.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5bba3cfe2e4849639f8e7e4cc5918828.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5d6765844ed04a6b92d2413513a74c8c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5d6765844ed04a6b92d2413513a74c8c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5d6765844ed04a6b92d2413513a74c8c.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5d6765844ed04a6b92d2413513a74c8c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5dbe5de75c2148bf865d73b2b47b3717.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5dbe5de75c2148bf865d73b2b47b3717.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5dbe5de75c2148bf865d73b2b47b3717.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5dbe5de75c2148bf865d73b2b47b3717.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5e6ad0c29b5e4a54913a702c5d08b707.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5e6ad0c29b5e4a54913a702c5d08b707.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5e6ad0c29b5e4a54913a702c5d08b707.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5e6ad0c29b5e4a54913a702c5d08b707.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5edd4002118d4572a9021653095f742f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5edd4002118d4572a9021653095f742f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5edd4002118d4572a9021653095f742f.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5edd4002118d4572a9021653095f742f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5f4c620b20db48f3bd3e9a7b256a7aaa.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\5f4c620b20db48f3bd3e9a7b256a7aaa.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/5f4c620b20db48f3bd3e9a7b256a7aaa.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\5f4c620b20db48f3bd3e9a7b256a7aaa.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\61c28b8e1cbc4f96b5d1100c1be300c3.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\61c28b8e1cbc4f96b5d1100c1be300c3.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/61c28b8e1cbc4f96b5d1100c1be300c3.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\61c28b8e1cbc4f96b5d1100c1be300c3.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\620f98175f14483684fc9559c9b7f232.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\620f98175f14483684fc9559c9b7f232.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/620f98175f14483684fc9559c9b7f232.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\620f98175f14483684fc9559c9b7f232.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\62865b7da94e493ea3ee7281964c7810.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\62865b7da94e493ea3ee7281964c7810.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/62865b7da94e493ea3ee7281964c7810.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\62865b7da94e493ea3ee7281964c7810.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\63277657ebb94c648bfcda28f78a8e4f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\63277657ebb94c648bfcda28f78a8e4f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/63277657ebb94c648bfcda28f78a8e4f.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\63277657ebb94c648bfcda28f78a8e4f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\638a5798cba34a0bb099e572345ff30a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\638a5798cba34a0bb099e572345ff30a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/638a5798cba34a0bb099e572345ff30a.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\638a5798cba34a0bb099e572345ff30a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6534c5a24b5845d9857a6de57ca10cb3.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6534c5a24b5845d9857a6de57ca10cb3.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6534c5a24b5845d9857a6de57ca10cb3.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6534c5a24b5845d9857a6de57ca10cb3.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6670e622aeb0489c887643c565342b37.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6670e622aeb0489c887643c565342b37.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6670e622aeb0489c887643c565342b37.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6670e622aeb0489c887643c565342b37.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6889e0a89cff463288bbfa9970c46f14.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6889e0a89cff463288bbfa9970c46f14.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6889e0a89cff463288bbfa9970c46f14.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6889e0a89cff463288bbfa9970c46f14.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6b094a81cb5e4d25a18959029ade72fe.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6b094a81cb5e4d25a18959029ade72fe.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6b094a81cb5e4d25a18959029ade72fe.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6b094a81cb5e4d25a18959029ade72fe.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6b9ea3e13fd140c3913a8cee6b146105.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6b9ea3e13fd140c3913a8cee6b146105.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6b9ea3e13fd140c3913a8cee6b146105.jpg",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6b9ea3e13fd140c3913a8cee6b146105.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6e1bec66a1da45c195f67fd3bf452239.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6e1bec66a1da45c195f67fd3bf452239.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6e1bec66a1da45c195f67fd3bf452239.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6e1bec66a1da45c195f67fd3bf452239.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6f7eec7ee1bd42b482a8cd1d5c2ca4db.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\6f7eec7ee1bd42b482a8cd1d5c2ca4db.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/6f7eec7ee1bd42b482a8cd1d5c2ca4db.jpg",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\6f7eec7ee1bd42b482a8cd1d5c2ca4db.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\702da3f2703e4f88995d3898069b7dc9.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\702da3f2703e4f88995d3898069b7dc9.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/702da3f2703e4f88995d3898069b7dc9.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\702da3f2703e4f88995d3898069b7dc9.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\707d5f152337484b99c057068a90dc93.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\707d5f152337484b99c057068a90dc93.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/707d5f152337484b99c057068a90dc93.jpg",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\707d5f152337484b99c057068a90dc93.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\733eef49bebf46e39c589039abbc4d5c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\733eef49bebf46e39c589039abbc4d5c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/733eef49bebf46e39c589039abbc4d5c.jpg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\733eef49bebf46e39c589039abbc4d5c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\73ce9584969445f6bf4c4f00a7f03f4a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\73ce9584969445f6bf4c4f00a7f03f4a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/73ce9584969445f6bf4c4f00a7f03f4a.jpg",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\73ce9584969445f6bf4c4f00a7f03f4a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\755486e74614499d8c9d0428665fd28c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\755486e74614499d8c9d0428665fd28c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/755486e74614499d8c9d0428665fd28c.jpg",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\755486e74614499d8c9d0428665fd28c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\75d6e809412e452a94ce51cf15dac53d.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\75d6e809412e452a94ce51cf15dac53d.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/75d6e809412e452a94ce51cf15dac53d.jpg",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\75d6e809412e452a94ce51cf15dac53d.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7cafa98d99394b2aa62b5ff53d363692.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7cafa98d99394b2aa62b5ff53d363692.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/7cafa98d99394b2aa62b5ff53d363692.jpg",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\7cafa98d99394b2aa62b5ff53d363692.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7e21a40b6f684b96a168ad183af2e053.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7e21a40b6f684b96a168ad183af2e053.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/7e21a40b6f684b96a168ad183af2e053.jpg",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\7e21a40b6f684b96a168ad183af2e053.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7fa38912dbf74f82b767af0087eb59bf.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\7fa38912dbf74f82b767af0087eb59bf.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/7fa38912dbf74f82b767af0087eb59bf.jpg",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\7fa38912dbf74f82b767af0087eb59bf.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\847b9a864c8b4a2fa2293fb4dce230e4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\847b9a864c8b4a2fa2293fb4dce230e4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/847b9a864c8b4a2fa2293fb4dce230e4.jpg",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\847b9a864c8b4a2fa2293fb4dce230e4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8501275707914b4d99b2193ec544dcf9.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8501275707914b4d99b2193ec544dcf9.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8501275707914b4d99b2193ec544dcf9.jpg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8501275707914b4d99b2193ec544dcf9.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\85549ba52279478b81e71e66aa2e0ce3.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\85549ba52279478b81e71e66aa2e0ce3.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/85549ba52279478b81e71e66aa2e0ce3.png",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\85549ba52279478b81e71e66aa2e0ce3.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\872ff985c72e4eadaa65b9ea3a0fdd16.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\872ff985c72e4eadaa65b9ea3a0fdd16.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/872ff985c72e4eadaa65b9ea3a0fdd16.jpg",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\872ff985c72e4eadaa65b9ea3a0fdd16.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\885a5fe3b427457c9188b0bde628a143.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\885a5fe3b427457c9188b0bde628a143.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/885a5fe3b427457c9188b0bde628a143.jpg",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\885a5fe3b427457c9188b0bde628a143.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8b106b671eda4354983f8b76aed43625.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8b106b671eda4354983f8b76aed43625.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8b106b671eda4354983f8b76aed43625.jpg",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8b106b671eda4354983f8b76aed43625.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8b82eb19391043a0aabf4d669e773d6c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8b82eb19391043a0aabf4d669e773d6c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8b82eb19391043a0aabf4d669e773d6c.jpg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8b82eb19391043a0aabf4d669e773d6c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8cecf9194d7d4c0090f4b5ef6cf2042f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8cecf9194d7d4c0090f4b5ef6cf2042f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8cecf9194d7d4c0090f4b5ef6cf2042f.jpg",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8cecf9194d7d4c0090f4b5ef6cf2042f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8cfc8812ec7a4a10aa2974d338ad489f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8cfc8812ec7a4a10aa2974d338ad489f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8cfc8812ec7a4a10aa2974d338ad489f.jpg",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8cfc8812ec7a4a10aa2974d338ad489f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8d3af39a91854ec190537ffa32ae4629.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8d3af39a91854ec190537ffa32ae4629.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8d3af39a91854ec190537ffa32ae4629.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8d3af39a91854ec190537ffa32ae4629.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8d744afba237464ba07e1040dfe91037.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8d744afba237464ba07e1040dfe91037.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8d744afba237464ba07e1040dfe91037.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8d744afba237464ba07e1040dfe91037.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8f890d9ac11e4578891e78e13923d419.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\8f890d9ac11e4578891e78e13923d419.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/8f890d9ac11e4578891e78e13923d419.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\8f890d9ac11e4578891e78e13923d419.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9066088b9a904d0b85116807f30886a9.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9066088b9a904d0b85116807f30886a9.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/9066088b9a904d0b85116807f30886a9.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\9066088b9a904d0b85116807f30886a9.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\90b127f2c0dc4fd9ab3eb9acdf8c5d8c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\90b127f2c0dc4fd9ab3eb9acdf8c5d8c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/90b127f2c0dc4fd9ab3eb9acdf8c5d8c.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\90b127f2c0dc4fd9ab3eb9acdf8c5d8c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\91b1fc97dda241bc809392b3a4b63af1.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\91b1fc97dda241bc809392b3a4b63af1.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/91b1fc97dda241bc809392b3a4b63af1.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\91b1fc97dda241bc809392b3a4b63af1.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\938271a113f244c996aec3ae939a143a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\938271a113f244c996aec3ae939a143a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/938271a113f244c996aec3ae939a143a.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\938271a113f244c996aec3ae939a143a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\950f8885022444498e834c576bcec158.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\950f8885022444498e834c576bcec158.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/950f8885022444498e834c576bcec158.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\950f8885022444498e834c576bcec158.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9592af169b19433ebb44dc0077d2b34a.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9592af169b19433ebb44dc0077d2b34a.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/9592af169b19433ebb44dc0077d2b34a.png",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\9592af169b19433ebb44dc0077d2b34a.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9aee784fb1d645d7ace5629ad6375f76.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9aee784fb1d645d7ace5629ad6375f76.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/9aee784fb1d645d7ace5629ad6375f76.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\9aee784fb1d645d7ace5629ad6375f76.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9cf100bb0185468b937051136bd04142.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\9cf100bb0185468b937051136bd04142.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/9cf100bb0185468b937051136bd04142.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\9cf100bb0185468b937051136bd04142.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a065d92c606c4f2e90da19af26eead3c.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a065d92c606c4f2e90da19af26eead3c.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a065d92c606c4f2e90da19af26eead3c.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a065d92c606c4f2e90da19af26eead3c.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a1ef172e35d747fe9bc73359fbd8d2c9.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a1ef172e35d747fe9bc73359fbd8d2c9.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a1ef172e35d747fe9bc73359fbd8d2c9.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a1ef172e35d747fe9bc73359fbd8d2c9.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a24e14d372804534bd1466e4f24f37b4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a24e14d372804534bd1466e4f24f37b4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a24e14d372804534bd1466e4f24f37b4.jpg",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a24e14d372804534bd1466e4f24f37b4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a5c5b2dc20b34aba9b26e7a09df4c7d7.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a5c5b2dc20b34aba9b26e7a09df4c7d7.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a5c5b2dc20b34aba9b26e7a09df4c7d7.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a5c5b2dc20b34aba9b26e7a09df4c7d7.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a78b0647a40c4bb9bb12ad1b35a7bb22.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a78b0647a40c4bb9bb12ad1b35a7bb22.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a78b0647a40c4bb9bb12ad1b35a7bb22.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a78b0647a40c4bb9bb12ad1b35a7bb22.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a80c276ea42643a39c918e740db815d8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a80c276ea42643a39c918e740db815d8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a80c276ea42643a39c918e740db815d8.jpg",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a80c276ea42643a39c918e740db815d8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a9776502c68e44cab7060f4662367478.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\a9776502c68e44cab7060f4662367478.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/a9776502c68e44cab7060f4662367478.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\a9776502c68e44cab7060f4662367478.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\ac51784414c6488fbcac01003caaac81.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\ac51784414c6488fbcac01003caaac81.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/ac51784414c6488fbcac01003caaac81.png",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\ac51784414c6488fbcac01003caaac81.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\afbc7af143614b889f5dbf3693d27d2b.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\afbc7af143614b889f5dbf3693d27d2b.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/afbc7af143614b889f5dbf3693d27d2b.jpg",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\afbc7af143614b889f5dbf3693d27d2b.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b2b2f287c2b444a48f7011a0efa12df8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b2b2f287c2b444a48f7011a0efa12df8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/b2b2f287c2b444a48f7011a0efa12df8.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\b2b2f287c2b444a48f7011a0efa12df8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b44059ab21584d1e88ca49261687aebe.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b44059ab21584d1e88ca49261687aebe.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/b44059ab21584d1e88ca49261687aebe.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\b44059ab21584d1e88ca49261687aebe.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b6cc09b2ee204ace8e83cdc0f3342bc3.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b6cc09b2ee204ace8e83cdc0f3342bc3.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/b6cc09b2ee204ace8e83cdc0f3342bc3.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\b6cc09b2ee204ace8e83cdc0f3342bc3.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b8dac47f651a49bca4f8600f32180263.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\b8dac47f651a49bca4f8600f32180263.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/b8dac47f651a49bca4f8600f32180263.jpg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\b8dac47f651a49bca4f8600f32180263.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\bd9bc306ab4a46d29340da5908e7287a.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\bd9bc306ab4a46d29340da5908e7287a.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/bd9bc306ab4a46d29340da5908e7287a.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\bd9bc306ab4a46d29340da5908e7287a.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\be3e69688fe64aa490ee1b660f32480e.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\be3e69688fe64aa490ee1b660f32480e.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/be3e69688fe64aa490ee1b660f32480e.png",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\be3e69688fe64aa490ee1b660f32480e.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\be40fc127cce4e4a8d6eca64e43323be.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\be40fc127cce4e4a8d6eca64e43323be.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/be40fc127cce4e4a8d6eca64e43323be.jpg",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\be40fc127cce4e4a8d6eca64e43323be.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c37bf27933e049a2ae97847761340615.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c37bf27933e049a2ae97847761340615.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/c37bf27933e049a2ae97847761340615.jpg",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\c37bf27933e049a2ae97847761340615.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c392821690d34aed938ad499f74f5fb7.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c392821690d34aed938ad499f74f5fb7.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/c392821690d34aed938ad499f74f5fb7.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\c392821690d34aed938ad499f74f5fb7.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c9e1a0df1d9d4f14bee803a219143b84.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\c9e1a0df1d9d4f14bee803a219143b84.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/c9e1a0df1d9d4f14bee803a219143b84.jpg",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\c9e1a0df1d9d4f14bee803a219143b84.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\cdbe0166563b407da8f9eb93bd8c224b.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\cdbe0166563b407da8f9eb93bd8c224b.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/cdbe0166563b407da8f9eb93bd8c224b.jpg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\cdbe0166563b407da8f9eb93bd8c224b.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d0b5290422044f0c8306f80ae601e7c5.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d0b5290422044f0c8306f80ae601e7c5.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/d0b5290422044f0c8306f80ae601e7c5.jpg",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\d0b5290422044f0c8306f80ae601e7c5.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d0c5e4f10ede47afb0ab34e7f4ecdc27.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d0c5e4f10ede47afb0ab34e7f4ecdc27.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/d0c5e4f10ede47afb0ab34e7f4ecdc27.jpg",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\d0c5e4f10ede47afb0ab34e7f4ecdc27.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d6ccb94daffc44a0a1da5854271bc7fe.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d6ccb94daffc44a0a1da5854271bc7fe.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/d6ccb94daffc44a0a1da5854271bc7fe.jpg",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\d6ccb94daffc44a0a1da5854271bc7fe.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d6ff1198d8934705ad13a76c6b327ed4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d6ff1198d8934705ad13a76c6b327ed4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/d6ff1198d8934705ad13a76c6b327ed4.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\d6ff1198d8934705ad13a76c6b327ed4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d822f7b106d6407aa5df419b1a3811cf.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\d822f7b106d6407aa5df419b1a3811cf.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/d822f7b106d6407aa5df419b1a3811cf.jpg",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\d822f7b106d6407aa5df419b1a3811cf.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\de2bb592a3554e10a43a3282e962a2c8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\de2bb592a3554e10a43a3282e962a2c8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/de2bb592a3554e10a43a3282e962a2c8.jpg",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\de2bb592a3554e10a43a3282e962a2c8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\de3b4acd3fc74a55945a947f9e7a3f65.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\de3b4acd3fc74a55945a947f9e7a3f65.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/de3b4acd3fc74a55945a947f9e7a3f65.jpg",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\de3b4acd3fc74a55945a947f9e7a3f65.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\dea809fba3c44edb894cb3f443eaa3fa.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\dea809fba3c44edb894cb3f443eaa3fa.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/dea809fba3c44edb894cb3f443eaa3fa.jpg",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\dea809fba3c44edb894cb3f443eaa3fa.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e16c292e3591485d9e87cfa2ef4ffe4e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e16c292e3591485d9e87cfa2ef4ffe4e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/e16c292e3591485d9e87cfa2ef4ffe4e.jpg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\e16c292e3591485d9e87cfa2ef4ffe4e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e18073014f984b5f87171efc02a5d140.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e18073014f984b5f87171efc02a5d140.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/e18073014f984b5f87171efc02a5d140.jpg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\e18073014f984b5f87171efc02a5d140.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e2ba8187b6e54737931e6a00659b8a52.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e2ba8187b6e54737931e6a00659b8a52.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/e2ba8187b6e54737931e6a00659b8a52.jpg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\e2ba8187b6e54737931e6a00659b8a52.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e9e88d1e793f417ea54ecb55f6587fef.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\e9e88d1e793f417ea54ecb55f6587fef.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/e9e88d1e793f417ea54ecb55f6587fef.jpg",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\e9e88d1e793f417ea54ecb55f6587fef.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\ed3edc88efd74416b0cefcf3f3f37fff.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\ed3edc88efd74416b0cefcf3f3f37fff.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/ed3edc88efd74416b0cefcf3f3f37fff.jpg",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\ed3edc88efd74416b0cefcf3f3f37fff.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\eec893cdd40e41cfa4e075e0f6bd2ec3.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\eec893cdd40e41cfa4e075e0f6bd2ec3.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/eec893cdd40e41cfa4e075e0f6bd2ec3.jpg",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\eec893cdd40e41cfa4e075e0f6bd2ec3.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\efd28ca87fb64a7da74ee3d05150c9d8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\efd28ca87fb64a7da74ee3d05150c9d8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/efd28ca87fb64a7da74ee3d05150c9d8.jpg",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\efd28ca87fb64a7da74ee3d05150c9d8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f07289fc13e740a7b32db5ce0efd4bdc.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f07289fc13e740a7b32db5ce0efd4bdc.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f07289fc13e740a7b32db5ce0efd4bdc.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f07289fc13e740a7b32db5ce0efd4bdc.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f0a2563a25454aa2b4177baaf1ec19df.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f0a2563a25454aa2b4177baaf1ec19df.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f0a2563a25454aa2b4177baaf1ec19df.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f0a2563a25454aa2b4177baaf1ec19df.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f1a0ddeb6d9e4479afc54cec4351d14e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f1a0ddeb6d9e4479afc54cec4351d14e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f1a0ddeb6d9e4479afc54cec4351d14e.jpg",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f1a0ddeb6d9e4479afc54cec4351d14e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f1bcad3908cc45b1a7781f2bbc51eb6d.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f1bcad3908cc45b1a7781f2bbc51eb6d.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f1bcad3908cc45b1a7781f2bbc51eb6d.jpg",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f1bcad3908cc45b1a7781f2bbc51eb6d.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f2e504f26f2b4039b8631e7c841b5ef9.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f2e504f26f2b4039b8631e7c841b5ef9.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f2e504f26f2b4039b8631e7c841b5ef9.png",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f2e504f26f2b4039b8631e7c841b5ef9.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f313c0da729645a496b81157ef5a12d1.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f313c0da729645a496b81157ef5a12d1.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f313c0da729645a496b81157ef5a12d1.jpg",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f313c0da729645a496b81157ef5a12d1.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f6ba4d2bd96546c480c4a66e946dec9e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f6ba4d2bd96546c480c4a66e946dec9e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f6ba4d2bd96546c480c4a66e946dec9e.jpg",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f6ba4d2bd96546c480c4a66e946dec9e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f6f5f969bf754f889cbb67ab04f360e1.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f6f5f969bf754f889cbb67ab04f360e1.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f6f5f969bf754f889cbb67ab04f360e1.jpg",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f6f5f969bf754f889cbb67ab04f360e1.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f7fb69ce64c1450bbd66fe104c42e90f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f7fb69ce64c1450bbd66fe104c42e90f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f7fb69ce64c1450bbd66fe104c42e90f.jpg",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f7fb69ce64c1450bbd66fe104c42e90f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f9a3aa6666c24dccb8e0adbac0a8f6fe.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\f9a3aa6666c24dccb8e0adbac0a8f6fe.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/f9a3aa6666c24dccb8e0adbac0a8f6fe.jpg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\f9a3aa6666c24dccb8e0adbac0a8f6fe.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fc406edd7155465b9930506bf0774884.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fc406edd7155465b9930506bf0774884.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/fc406edd7155465b9930506bf0774884.jpg",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\fc406edd7155465b9930506bf0774884.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fd4fbf5464fd45a4846b240f13ab8161.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fd4fbf5464fd45a4846b240f13ab8161.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/fd4fbf5464fd45a4846b240f13ab8161.jpg",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\fd4fbf5464fd45a4846b240f13ab8161.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fd8dd6e92e0841e5ae5fc3a5761496b8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\fd8dd6e92e0841e5ae5fc3a5761496b8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/fd8dd6e92e0841e5ae5fc3a5761496b8.jpg",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\fd8dd6e92e0841e5ae5fc3a5761496b8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\flex.ico",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\flex.ico",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/flex.ico",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\flex.ico"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\FlexLogo.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\FlexLogo.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/FlexLogo.png",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\FlexLogo.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/login.jpg",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\login.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login2.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login2.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/login2.jpg",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\login2.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login3.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login3.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/login3.jpg",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\login3.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login4.PNG",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\login4.PNG",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/login4.PNG",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\login4.PNG"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\分類圖示.gif",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\分類圖示.gif",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/分類圖示.gif",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\分類圖示.gif"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\0860beaeb55e4e479ebee88b269318d1.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\0860beaeb55e4e479ebee88b269318d1.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/0860beaeb55e4e479ebee88b269318d1.png",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\0860beaeb55e4e479ebee88b269318d1.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\094e2cb2770f484e8d1c7fd204a651d0.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\094e2cb2770f484e8d1c7fd204a651d0.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/094e2cb2770f484e8d1c7fd204a651d0.jpg",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\094e2cb2770f484e8d1c7fd204a651d0.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\172138016_462753838168852_945457415575231013_n.webp",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\172138016_462753838168852_945457415575231013_n.webp",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/172138016_462753838168852_945457415575231013_n.webp",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\172138016_462753838168852_945457415575231013_n.webp"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2014121962173421.webp",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2014121962173421.webp",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/2014121962173421.webp",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\2014121962173421.webp"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2b966759625a4a258e9e71787d00d4b7.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2b966759625a4a258e9e71787d00d4b7.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/2b966759625a4a258e9e71787d00d4b7.jpg",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\2b966759625a4a258e9e71787d00d4b7.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2c31875dc5ea4af5a9f87f5b53be70ce.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\2c31875dc5ea4af5a9f87f5b53be70ce.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/2c31875dc5ea4af5a9f87f5b53be70ce.jpg",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\2c31875dc5ea4af5a9f87f5b53be70ce.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\37456.webp",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\37456.webp",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/37456.webp",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\37456.webp"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\624c8b7fed954efe90faf112d6dd9d7e.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\624c8b7fed954efe90faf112d6dd9d7e.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/624c8b7fed954efe90faf112d6dd9d7e.jpg",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\624c8b7fed954efe90faf112d6dd9d7e.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\63d5cffcefd24da3a94c423e47cb8571.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\63d5cffcefd24da3a94c423e47cb8571.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/63d5cffcefd24da3a94c423e47cb8571.jpg",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\63d5cffcefd24da3a94c423e47cb8571.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\69c189364a4747388faf2bbf61378aaf.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\69c189364a4747388faf2bbf61378aaf.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/69c189364a4747388faf2bbf61378aaf.png",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\69c189364a4747388faf2bbf61378aaf.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\79f37b044ece43bab417a52f79fa77e9.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\79f37b044ece43bab417a52f79fa77e9.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/79f37b044ece43bab417a52f79fa77e9.jpg",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\79f37b044ece43bab417a52f79fa77e9.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\92b9d92cd9944dbfb8c86b50a5a70557.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\92b9d92cd9944dbfb8c86b50a5a70557.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/92b9d92cd9944dbfb8c86b50a5a70557.jpg",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\92b9d92cd9944dbfb8c86b50a5a70557.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\a2e52e0f998f41059d28931c7d45ee5f.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\a2e52e0f998f41059d28931c7d45ee5f.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/a2e52e0f998f41059d28931c7d45ee5f.jpg",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\a2e52e0f998f41059d28931c7d45ee5f.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Allen.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Allen.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Allen.jpg",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Allen.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\bbf4b1d2db7f467e8a237728416d6801.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\bbf4b1d2db7f467e8a237728416d6801.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/bbf4b1d2db7f467e8a237728416d6801.jpg",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\bbf4b1d2db7f467e8a237728416d6801.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\bdc7aae41a454fa2aef759e7ca3cd629.jpeg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\bdc7aae41a454fa2aef759e7ca3cd629.jpeg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/bdc7aae41a454fa2aef759e7ca3cd629.jpeg",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\bdc7aae41a454fa2aef759e7ca3cd629.jpeg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Betty.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Betty.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Betty.jpg",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Betty.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\c1bea1c7ddc8415e8248d4c8b8e397cb.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\c1bea1c7ddc8415e8248d4c8b8e397cb.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/c1bea1c7ddc8415e8248d4c8b8e397cb.jpg",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\c1bea1c7ddc8415e8248d4c8b8e397cb.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\cf3a5ce2ebea485abbb5c1ff0c6d1cd4.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\cf3a5ce2ebea485abbb5c1ff0c6d1cd4.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/cf3a5ce2ebea485abbb5c1ff0c6d1cd4.jpg",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\cf3a5ce2ebea485abbb5c1ff0c6d1cd4.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\d4e44b59ced346d9940ea82d49b9c6ca.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\d4e44b59ced346d9940ea82d49b9c6ca.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/d4e44b59ced346d9940ea82d49b9c6ca.jpg",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\d4e44b59ced346d9940ea82d49b9c6ca.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\f32d64bb07cc447fb3c99229170ca9b8.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\f32d64bb07cc447fb3c99229170ca9b8.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/f32d64bb07cc447fb3c99229170ca9b8.jpg",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\f32d64bb07cc447fb3c99229170ca9b8.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Gary.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Gary.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Gary.jpg",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Gary.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Jack.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Jack.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Jack.jpg",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Jack.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\james-thornton-8VoDyBDvv0k-unsplash.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\james-thornton-8VoDyBDvv0k-unsplash.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/james-thornton-8VoDyBDvv0k-unsplash.jpg",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\james-thornton-8VoDyBDvv0k-unsplash.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Katty.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Katty.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Katty.jpg",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Katty.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Petty.png",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Petty.png",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Petty.png",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Petty.png"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Sam.jpeg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Sam.jpeg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Sam.jpeg",
       "AssetKind": "All",
@@ -4148,10 +4148,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Sam.jpeg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Steve.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Steve.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Steve.jpg",
       "AssetKind": "All",
@@ -4165,10 +4165,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Steve.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Teddy.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Teddy.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Teddy.jpg",
       "AssetKind": "All",
@@ -4182,10 +4182,10 @@
       "OriginalItemSpec": "wwwroot\\Public\\Img\\講師大頭貼\\Teddy.jpg"
     },
     {
-      "Identity": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Vivi.jpg",
+      "Identity": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\Public\\Img\\講師大頭貼\\Vivi.jpg",
       "SourceId": "FlexCoreService",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\VAL\\Desktop\\Flex\\FlexCore\\FlexCoreService\\wwwroot\\",
       "BasePath": "_content/FlexCoreService",
       "RelativePath": "Public/Img/講師大頭貼/Vivi.jpg",
       "AssetKind": "All",
