@@ -12,5 +12,12 @@ namespace FlexCoreService.ProductCtrl.Exts
                 ProductCategoryName = dto.ProductCategoryName,
             };
         }
+        public static CategoryVM ToCategoryVM(this IEnumerable<CategoryDto> dto)
+        {
+            var vm= new CategoryVM();
+            var result = dto.GroupBy(c => c.ProductCategoryName).
+                ToDictionary(g => g.Key, g => g.Select(s => s.ProductSubCategoryName).ToList());
+            return vm;
+        }
     }
 }

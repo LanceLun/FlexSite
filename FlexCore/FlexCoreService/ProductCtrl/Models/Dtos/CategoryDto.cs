@@ -4,7 +4,5 @@
     {
         public string ProductCategoryName { get; set; }
         public string ProductSubCategoryName { get; set; }
-
-        //public Dictionary<string, string> Categories { get; set; }
     }
 }
