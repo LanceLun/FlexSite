@@ -27,18 +27,6 @@ let loadProducts = async () => {
     });
 };
 
-// let loadProducts = async () => {
-//   await axios
-//     .post(`${api_BASEADDRESS}api/Products/Men`)
-//     .then((response) => {
-//       //console.log(response.data);
-//       cards.value = response.data;
-//     })
-//     .catch((error) => {
-//       alert(error);
-//     });
-// };
-
 onMounted(() => {
   loadProducts();
 });

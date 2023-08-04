@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj": {}
+    "C:\\大專\\FlexSite\\FlexCore\\EFModels\\EFModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj": {
+    "C:\\大專\\FlexSite\\FlexCore\\EFModels\\EFModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj",
+        "projectUniqueName": "C:\\大專\\FlexSite\\FlexCore\\EFModels\\EFModels.csproj",
         "projectName": "EFModels",
-        "projectPath": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\EFModels.csproj",
-        "packagesPath": "C:\\Users\\jjboy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jjboy\\Desktop\\Flex\\FlexCore\\EFModels\\obj\\",
+        "projectPath": "C:\\大專\\FlexSite\\FlexCore\\EFModels\\EFModels.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\大專\\FlexSite\\FlexCore\\EFModels\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jjboy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\local_Nuget套件\\packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -76,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
