@@ -5,18 +5,18 @@
       <ul>
         <li><a href="javascript:;">說明</a></li>
         <li><a href="javascript:;">加入</a></li>
-        <li><a href="javascript:;">登入</a></li>
+
+        <li><a href="javascript:;" @mouseenter="showList">登入</a></li>
       </ul>
     </div>
   </header>
-
   <nav>
     <div class="container">
       <div class="left">
-        <router-link to="/" class="logo-wrapper"
-          ><img src="" alt="" />
-          <h1>FLEX</h1></router-link
-        >
+        <a href="#" class="logo-wrapper">
+          <img src="" alt="" />
+          <h1>FLEX</h1>
+        </a>
       </div>
       <div class="center">
         <ul>
@@ -24,6 +24,7 @@
             <div class="nav-list-item">
               <div>Men</div>
               <div><router-link to="/men">男款</router-link></div>
+              <div>男款</div>
             </div>
           </li>
           <li>
@@ -56,9 +57,17 @@
       </div>
     </div>
   </nav>
+  <userList v-if="showList"></userList>
 </template>
 
-<script setup lang="ts"></script>
+<script setup>
+import { ref } from 'vue';
+import userList from '../home/userList.vue';
+
+function showList() {
+  alert('hi');
+}
+</script>
 
 <style lang="scss">
 @mixin reset-styles {
@@ -126,7 +135,7 @@ header {
         }
 
         &:not(:first-child)::before {
-          content: "|";
+          content: '|';
           padding: 0 15px;
           font-size: 14px;
         }

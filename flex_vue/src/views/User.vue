@@ -6,19 +6,15 @@
       <h2>會員資料修改</h2>
     </div>
 
-    <div class="mb-3">
-      <label for="">{{ level }}</label>
-    </div>
-
-    <div class="input-group mb-3">
-      <label for="nameInput" class="text">姓名</label>
-      <input
-        type="text"
-        class="form-control"
-        id="nameInput"
-        placeholder="ex.吳阿瑩"
-        v-model="name"
-      />
+    <div class="d-flex">
+      <div class="input-group mb-3">
+        <label for="nameInput" class="text">姓名</label>
+        <label for="">{{ name }}</label>
+      </div>
+      <div class="aaa mb-3">
+        <label class="text">會員等級</label>
+        <label for="">{{ level }}</label>
+      </div>
     </div>
 
     <div class="input-group mb-3">
@@ -72,18 +68,21 @@
         </div>
       </div>
     </div>
-
-    <div class="input-group mb-3">
-      <label for="addressInput" class="text">常用地址</label>
-      <input
-        type="text"
-        class="form-control"
-        id="addressInput"
-        placeholder="Address"
-        v-model="commonAddress"
-      />
+    <div class="d-flex">
+      <div class="input-group mb-3">
+        <label for="addressInput" class="text">地址</label>
+        <input
+          type="text"
+          class="form-control"
+          id="addressInput"
+          placeholder="common address"
+          v-model="commonAddress"
+        />
+      </div>
+      <div class="addAddress">
+        <button type="button" class="btn btn-primary text-black">+</button>
+      </div>
     </div>
-
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="載具先不寫" />
     </div>
@@ -92,13 +91,13 @@
       <input type="text" class="form-control" placeholder="取貨店鋪預約" />
     </div>
 
-    <label class="text">訂閱電子報</label>
+    <label class="text mb-3">訂閱電子報</label>
     <div class="form-check form-check-inline">
       <input class="form-check-input" type="checkbox" id="subscribeBtn" />
       <label class="form-check-label" for="subscribeBtn">是否訂閱電子報</label>
     </div>
     <div>
-      <button type="button" class="btn btn-outline-primary text-white">
+      <button type="button" class="btn btn-outline-primary text-black">
         送出
       </button>
     </div>
@@ -146,11 +145,24 @@ axios
 </script>
 
 <style>
+.container {
+  width: 30%;
+  margin-left: 10%;
+}
 .gender {
   display: flex;
 }
 .text {
   padding-right: 10px;
   font-size: 18px;
+}
+.addAddress {
+  padding-left: 20px;
+}
+.aaa {
+  width: 30%;
+  background-color: #fce0d9;
+  border-radius: 10px;
+  border: solid 1px #bb3e20;
 }
 </style>

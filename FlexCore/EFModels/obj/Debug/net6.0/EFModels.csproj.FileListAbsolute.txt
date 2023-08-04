@@ -12,36 +12,6 @@ C:\大專FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
 C:\大專FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
 C:\大專FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
 C:\大專FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
-<<<<<<< HEAD
-D:\FlexFrontend\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
-D:\FlexFrontend\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
-D:\FlexFrontend\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
-D:\FlexFrontend\FlexCore\EFModels\bin\Debug\net6.0\EFModels.pdb
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.AssemblyReference.cache
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.GeneratedMSBuildEditorConfig.editorconfig
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfoInputs.cache
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfo.cs
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.CoreCompileInputs.cache
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.dll
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
-D:\FlexFrontend\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.pdb
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.AssemblyReference.cache
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfoInputs.cache
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfo.cs
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.CoreCompileInputs.cache
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.dll
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
-C:\Users\ispan\Desktop\flex\Flex\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
-=======
 C:\大專\FlexSite\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
 C:\大專\FlexSite\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
 C:\大專\FlexSite\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
@@ -84,4 +54,3 @@ C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
 C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
 C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
 C:\Users\VAL\Desktop\Flex\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
->>>>>>> 9ed0c77a9f5e7a38a2ef8e42deb422dfb42b3446

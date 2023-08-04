@@ -1,5 +1,6 @@
 <template>
   <navBar></navBar>
+  <!-- <userList></userList> -->
   <main>
     <div class="text-carousel-container">
       <div class="text-carousel">
@@ -18,13 +19,13 @@
     <div class="container main-area mb-3">
       <a href="javascript:;" class="home-row">
         <div class="video-container">
-          <video
+          <!-- <video
             src="../../public/videos/pexels-cottonbro-5275266 (2160p).mp4"
             muted
             autoplay
             loop
             controls="false"
-          ></video>
+          ></video> -->
         </div>
         <div class="home-card">
           <div class="home-card-title">
@@ -112,6 +113,7 @@
 
 <script setup lang="ts">
 import navBar from '../components/home/NavBar.vue';
+// import userList from '../components/home/userList.vue';
 import homeFooter from '../components/home/footer.vue';
 </script>
 
