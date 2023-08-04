@@ -48,5 +48,12 @@
     "C:\\Users\\ispan\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
     "C:\\Users\\ispan\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "讀取快取檔案 C:\\Users\\ispan\\Desktop\\flex\\Flex\\FlexCore\\EFModels\\obj\\project.nuget.cache 時發生問題: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

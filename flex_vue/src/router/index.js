@@ -1,11 +1,17 @@
 import { createRouter, createWebHistory } from "vue-router";
 import Home from '../views/Home.vue'
+import User from '../views/User.vue'
 // 路由設定
 const routes = [
   {
     //http://loaclhost/
     path: '/',
     component: Home
+  },
+  {
+    //http://loaclhost/User
+    path: '/user',
+    component: User
   }
 ]
 
